@@ -86,9 +86,9 @@ body {
     left:0;
     width:100%;
     height:100%;
-    background:#yellow;
+    background:yellow;
     animation:showRight 1s ease forwards;
-    animation-delay: 1s;
+    animation-delay: 1.4s;
 }
 
 .home-content h3 {
@@ -104,7 +104,7 @@ body {
     left:0;
     width:100%;
     height:100%;
-    background: #ff0090;
+    background:yellow;
     animation:showRight 1s ease forwards;
     animation-delay: 1.3s;
 }
@@ -229,7 +229,7 @@ body {
     left:0;
     width:100%;
     height:100%;
-    background:#0e0630;
+    background:yellow;
     animation:showRight 1s ease forwards;
     animation-delay: 3s;
 }
