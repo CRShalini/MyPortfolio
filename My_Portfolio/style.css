@@ -245,7 +245,7 @@ body {
     left:0;
     width:0;
     height:100%;
-    background:yellow;
+    background:#0e0630;
     z-index:-1;
     transition:.5s;
 }
